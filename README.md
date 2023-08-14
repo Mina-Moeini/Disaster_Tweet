@@ -1,7 +1,7 @@
 
 # Identification Of Disaster Tweets
 
-Natural language processing (NLP) model to classify whether a given tweet is related to a disaster or not. The goal is to create a system that can automatically distinguish between tweets that discuss real disasters ( earthquakes, wildfires, floods ) and those that do not.After training the model, it was able to recognize the test data correctly with 95% accuracy.
+Natural language processing (NLP) model to classify whether a given tweet is related to a disaster or not. The goal is to create a system that can automatically distinguish between tweets that discuss real disasters ( earthquakes, wildfires, floods ) and those that do not.After training the model, it was able to recognize the test data correctly with 82% accuracy.
 
 
 
@@ -23,7 +23,7 @@ Natural language processing (NLP) model to classify whether a given tweet is rel
 - Model Training:
     Finally, according to the obtained results, the BOW method worked better on the dataset, so we trained the models with the vectors obtained from this method.
 - Model Evaluation:
-    After training, we evaluated the model with test data, and the logistic regression model performed better than other models on this dynasty with 95% accuracy.
+    After training, we evaluated the model with test data, and the logistic regression model performed better than other models on this dynasty with 82% accuracy.
 
 
 
